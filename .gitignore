@@ -1,0 +1,15 @@
+# Entorno virtual (¡Muy importante para no subir miles de archivos de python innecesarios!)
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración del editor o sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
